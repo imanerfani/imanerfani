@@ -33,14 +33,17 @@
 <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> 
 </a> 
+<a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://pinia.vuejs.org/logo.svg" alt="nuxtjs" width="40" height="40"/> 
+</a> 
+<a href="https://vuex.vuejs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" title="Vuex" alt="vuex" width="40" height="40"/> 
+</a> 
 <a href="https://pugjs.org" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> 
 </a> 
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://v2.vuejs.org/images/logo.svg" width="40" height="45"/> 
-</a> 
-<a href="https://redux.js.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
 </a> 
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
