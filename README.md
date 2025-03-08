@@ -45,7 +45,12 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://v2.vuejs.org/images/logo.svg" width="40" height="45"/> 
 </a> 
-
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" width="40" height="45"/> 
+</a> 
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/220px-Nextjs-logo.svg.png" width="40" height="45"/> 
+</a> 
 <a href="https://svelte.dev" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> 
 </a> 
